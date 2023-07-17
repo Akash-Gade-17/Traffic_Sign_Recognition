@@ -1,1 +1,2 @@
 # Traffic_Sign_Recognition
+Traffic Sign Recognition using Convolutional Neural Networks (CNN) is an advanced computer vision technique that automates the detection and classification of traffic signs from images. CNNs are capable of learning meaningful features directly from the raw pixel data, making them highly effective for this task. Traffic Sign Recognition with CNN is crucial for autonomous vehicles, driver assistance systems, and enhancing road safety.
